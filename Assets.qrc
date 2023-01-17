@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Assets/magicfail.ogg</file>
+        <file>Assets/spell.ogg</file>
+    </qresource>
+</RCC>
